@@ -14,7 +14,8 @@ uname -a
 
  # How to Use 
 
-  - pull the image
+  - Build by this DockerFile or pull the image
+  
   ```sh
   docker pull supernisor/armv7-puppeteer
   ```
