@@ -22,7 +22,7 @@ uname -a
   - Add executablePath:'/usr/bin/chromium-browser'
   - using the base commands  :
   ```sh 
-  docker run -i -t -v "script path:/home/pptruser/path" docker-puppeter:1.10.0 node example.js 
+  docker run -i -t -v "script path:/home/pptruser/path" supernisor/armv7-puppeteer node example.js 
   ```
 
 ### example.js 
